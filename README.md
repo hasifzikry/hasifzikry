@@ -34,8 +34,9 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
-<h3>📊 My GitHub Contributions</h3>
+<h3>🚀 Featured Work</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hasifzikry&theme=dark&hide_border=true&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasifzikry&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e)
+- 🐧 RHEL automation with Ansible
+- ☁️ AWS infrastructure experiments
+- 🖥️ VMware administration
+- ⚙️ Linux system management tools
