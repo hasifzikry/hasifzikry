@@ -36,12 +36,6 @@
 
 <h3>📊 My GitHub Contributions</h3>
 
-<h3>📈 GitHub Activity</h3>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hasifzikry&theme=dark&hide_border=true&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362)](https://git.io/streak-stats)
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true" />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasifzikry&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e)
