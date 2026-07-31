@@ -43,7 +43,9 @@
 - ⚙️ Linux system management tools
 
 <hr>
-<!-- Github stats -->
+<br>
+<h3>Github Stats</h3>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hasifzikry)](https://git.io/streak-stats)
 
 
