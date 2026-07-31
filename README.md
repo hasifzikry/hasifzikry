@@ -10,8 +10,10 @@
 
 <div align="center">
   <h3>Technologies I Work With</h3>
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,windows,python)](https://skillicons.dev)
+
 <hr>
 
 <div align="center" style="margin-bottom:24px;">
