@@ -13,7 +13,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,aws,windows,redhat,gitlab,ansible,notion,openshift,powershell,py,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,aws,windows,redhat,gitlab,ansible,notion,openshift,powershell,py,vim,vscode,vmware,vcenter" />
   </a>
 </p>
 <hr>
