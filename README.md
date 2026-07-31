@@ -44,8 +44,9 @@
 
 <hr>
 
-<center>
+<div align="center">
   <h3>Contribution Streak</h3>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=hasifzikry&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-</center>
+
+</div>
