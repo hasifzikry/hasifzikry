@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=hasifzikry&color=yellow)
 
-<h3>🛠️ Technologies I Work With</h3>
+<h3>Technologies I Work With</h3>
 
 <p>
   <!-- Operating Systems -->
@@ -35,7 +35,7 @@
 </p>
 
 
-<h3>🚀 Featured Work</h3>
+<h3>Featured Work</h3>
 
 - 🐧 RHEL automation with Ansible
 - ☁️ AWS infrastructure experiments
@@ -43,7 +43,7 @@
 - ⚙️ Linux system management tools
 
 <hr>
-<br>
+
 <h3>Github Stats</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hasifzikry)](https://git.io/streak-stats)
