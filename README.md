@@ -36,11 +36,12 @@
 
 <div align="center">
   <h3>Featured Work</h3>
-  
-  - 🐧 RHEL automation with Ansible
-  - ☁️ AWS infrastructure experiments
-  - 🖥️ VMware administration
-  - ⚙️ Linux system management tools
+  <p>
+   - 🐧 RHEL automation with Ansible
+   - ☁️ AWS infrastructure experiments
+   - 🖥️ VMware administration
+   - ⚙️ Linux system management tools
+  </p>
 </div>
 
 <hr>
