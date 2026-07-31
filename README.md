@@ -1,4 +1,6 @@
-<img src="/github_profile.png">
+<p align="center">
+  <img src="./profile_github.png" alt="GitHub Profile Banner" width="100%">
+</p>
 
 ## 👋 Hello, I'm Hasif Zikry!
 
