@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hello, I'm Hasif Zikry!</h1>
 
-<p align="center" style="margin-top: 10px; margin-bottom: 20px;">>
+<p align="center" style="margin-top: 10px; margin-bottom: 20px;">
   <img src="https://komarev.com/ghpvc/?username=hasifzikry&color=yellow&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -12,7 +12,6 @@
   <h3>Technologies I Work With</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="48" alt="RHEL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" height="48" alt="VMware"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="48" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="48" alt="Ansible"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="48" alt="PowerShell"/>
