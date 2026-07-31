@@ -9,7 +9,7 @@
 </p>
 
 <div align="center" style="margin-bottom:24px;">
-### Technologies I Work With
+  <h3>Technologies I Work With</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="48" alt="RHEL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" height="48" alt="VMware"/>
