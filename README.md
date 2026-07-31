@@ -1,3 +1,5 @@
+<img src="/github_profile.png">
+
 ## 👋 Hello, I'm Hasif Zikry!
 
 ![](https://komarev.com/ghpvc/?username=hasifzikry&color=yellow)
