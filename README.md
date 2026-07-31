@@ -2,7 +2,7 @@
   <img src="./profile_github.png" alt="GitHub Profile Banner" width="100%">
 </p>
 
-## 👋 Hello, I'm Hasif Zikry!
+<h1 align="center">👋 Hello, I'm Hasif Zikry!</h1>
 
 ![](https://komarev.com/ghpvc/?username=hasifzikry&color=yellow)
 
@@ -23,7 +23,6 @@
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
 
   <!-- Scripting -->
-  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
   <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
   <img alt="YAML" src="https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
 
