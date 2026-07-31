@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=hasifzikry&color=yellow)
 
-<h3>Technologies I Work With</h3>
-
-<p>
+<div align="center">
+  <h3>Technologies I Work With</h3>
+  <p>
   <!-- Operating Systems -->
   <img alt="Red Hat Enterprise Linux" src="https://img.shields.io/badge/-RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -33,14 +33,12 @@
   <!-- Editor -->
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
+</div>
 
 <div align="center">
   <h3>Featured Work</h3>
   <p>
-   - 🐧 RHEL automation with Ansible
-   - ☁️ AWS infrastructure experiments
-   - 🖥️ VMware administration
-   - ⚙️ Linux system management tools
+   🐧 RHEL automation with Ansible | ☁️ AWS infrastructure experiments | 🖥️ VMware administration | 
   </p>
 </div>
 
