@@ -4,7 +4,9 @@
 
 <h1 align="center">👋 Hello, I'm Hasif Zikry!</h1>
 
-![](https://komarev.com/ghpvc/?username=hasifzikry&color=yellow)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hasifzikry&color=yellow&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <div align="center">
   <h3>Technologies I Work With</h3>
