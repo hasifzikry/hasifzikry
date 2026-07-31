@@ -34,13 +34,14 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
-
-<h3>Featured Work</h3>
-
-- 🐧 RHEL automation with Ansible
-- ☁️ AWS infrastructure experiments
-- 🖥️ VMware administration
-- ⚙️ Linux system management tools
+<div align="center">
+  <h3>Featured Work</h3>
+  
+  - 🐧 RHEL automation with Ansible
+  - ☁️ AWS infrastructure experiments
+  - 🖥️ VMware administration
+  - ⚙️ Linux system management tools
+</div>
 
 <hr>
 
