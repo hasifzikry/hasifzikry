@@ -11,9 +11,11 @@
 <div align="center">
   <h3>Technologies I Work With</h3>
 </div>
-
-[![My Skills](https://skillicons.dev/icons?i=aws,windows,python)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,aws,windows,redhat,gitlab,ansible,notion,openshift,powershell,py,vim,vscode" />
+  </a>
+</p>
 <hr>
 
 <div align="center" style="margin-bottom:24px;">
