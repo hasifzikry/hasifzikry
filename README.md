@@ -42,7 +42,7 @@
 - 🖥️ VMware administration
 - ⚙️ Linux system management tools
 
-</br>
+<hr>
 <!-- Github stats -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hasifzikry)](https://git.io/streak-stats)
 
