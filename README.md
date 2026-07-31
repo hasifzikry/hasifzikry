@@ -47,3 +47,5 @@
 <h3>Github Stats</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hasifzikry)](https://git.io/streak-stats)
+
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
