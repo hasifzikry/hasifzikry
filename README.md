@@ -48,4 +48,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hasifzikry)](https://git.io/streak-stats)
 
-
+![Snake animation](https://github.com/hasifzikry/github-readme/blob/output/github-contribution-snake.svg)
